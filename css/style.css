@@ -1,0 +1,13 @@
+.jumbotron {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.table {
+    margin-top: 20px;
+}
+
+.selected {
+    background-color: yellow;
+}
